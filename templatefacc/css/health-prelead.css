@@ -1,0 +1,355 @@
+@charset "utf-8";
+/* CSS Document */
+html,body{background:url(../images/prequote-bg.jpg) no-repeat #7f96cc center;overflow-x:hidden;background-size:100%}
+.prequote-header-padding {   background: none;} 
+.new1-prequote-fa-icon { height: 45px;  padding-top: 19px;}
+.new1-prequote-desktop-input-box span { line-height: 64px; width: 74px;}
+.new1-prequote-desktop-input-box md-input-container { margin:1px 0 0 -1px;}
+.newP-prequote-desktop-select span.slect {  line-height: 64px; width: 74px;}
+.newP-prequote-desktop-select md-select {   margin: -1px 0 0 !important;    font-size: 13px;}
+.prequot-new11 {   left: 105px;    top: -32px;   width: 141px;}
+.prequot-new21{   height: 62px;}
+.prequot-desktop-left-new, .prequot-desktop-left1-new{   padding: 14px 33px 0 41px;}
+.members-heading { background:#64cbf4;border-radius: 5px 5px 0 0;color: #fff;  padding:10px; text-align: center;width: 100%;}
+.margin-prelead{  border-radius: 0 0 5px 5px;  margin: -1px 0 0;    padding: 10px 10px 5px 10px;}
+.margin-prelead md-select {    margin: -1px 0 0 !important;}
+.prequote-button-new {  margin-bottom: 3px;}
+.newP-prequote-desktop-select-ph md-select {  margin: 2px 0 0; }
+.prequote-button-new span{ font-size:13px; text-transform:capitalize;}
+.margin-prelead .md-button { background: #d9d9d9 !important;  border-radius: 5px; box-shadow: none !important; color: #949494 !important;
+    font-size: 12px !important;    font-weight: normal !important;    line-height: 31px !important;    margin-top: 9px !important;
+    min-height: 32px !important;    min-width: 102px !important;    text-align: center !important;}
+md-select.select-members-button {background: #d9d9d9; border-radius: 5px; color: #fff !important; font-size: 12px !important; margin: 9px 0 0 !important;}
+md-select.select-members-button span { color: #949494;  font-size: 13px;   margin-left: 8px;   margin-top: -3px;}
+.prequote-button-new {  margin-right: 10px!important;}
+.prequote-button-bottom-new button{ border-radius:5px!important;}
+.prequot-desktop-right-new md-content {  min-height: 459px!important; border-radius:0 3px 3px 0px!important;}
+.newP-prequote-desktop-select-ph md-input-container {  padding-top: 1px;}
+.new1-prequote-desktop-input-box md-autocomplete {  margin-top: 10px;}
+.newP-prequote-desktop-select-ph .ph{   line-height: 64px;  width: 74px;}
+.prequote-mr-lead md-input-container {  padding-top: 15px!important;}
+.disease-box{ width:100%;   height: 49px;   margin-top: -14px; }
+md-switch-thumb, .prequote-ped-selecton-new md-radio-button {  border: 0 solid #cfe5ef !important;    width: 35%!important;}
+.md-switch-thumb:first-child, .prequote-ped-selecton-new md-radio-button:first-child {  margin-right: 10px;}
+.md-switch-thumb .md-label, .prequote-ped-selecton-new md-radio-button .md-label { display: block;  font-size: 14px; font-weight: 600;
+    margin-left: -17px;    margin-top: -54px;}
+md-switch-thumb .md-container, .prequote-ped-selecton-new md-radio-button .md-container { background:none; }
+.prequote-ped-selecton-new md-radio-group {    margin-bottom: 0;  }
+.prequote-ped-selecton-new md-radio-button .md-label span   {color: #888888!important;}
+.info-text {  color: #888888;   font-size: 9.2px;    padding-top: 9px;}
+a.md-button[disabled], a.md-button.md-raised[disabled], a.md-button.md-fab[disabled], a.md-button.md-accent[disabled], a.md-button.md-warn[disabled], .md-button[disabled], .md-button.md-raised[disabled], .md-button.md-fab[disabled], .md-button.md-accent[disabled], .md-button.md-warn[disabled]{ color:#fff!important;}
+.quote-list-header {background: #64cbf4;  color: #fff;  font-size: 13px;   padding: 15px;}
+.prequote-box-illness{ margin:40px 2px 0 18px;}
+.scroll-members-new{ width:365px!important; overflow-x:scroll; overflow-y:hidden; background:url(../images/scroller-background.png) repeat-x;}
+.scroll-members-five{background:url(../images/scroller-background.png) repeat-x;}
+.members-text{ color:#8b8a8a; font-size:11px; text-align:center; width:100px; text-align:center;}
+.members-text span{ display:block;}
+.members-text2 { border-bottom:none; color: #8b8a8a;  font-size: 12px;  min-height: 28px;  padding:10px 0 0 8px;text-align: left;}
+.new-chk-area md-checkbox .md-label{ padding-left:0!important; margin-left:0px!important;}
+.prequote-ped-slection-wraper-new md-checkbox {   margin: 0;    padding: 4px 0 4px;}
+.prequote-ped-slection-wraper-new {    padding: 11px 0 0 12px;    width: 103%;     border-bottom: none;    border-top: none;}
+.illness-box{ padding:40.5px 0 0; background:url(../images/scroller-background.png) repeat-x;}
+.prequote-desktop-illness{ background:#f5f4fe; padding:0 0px 0 0px ;}
+.prequote-ped-slection-11:nth-child(2n+1) {  background:none;}
+.prequote-more-members-s11 md-select:focus:not([disabled]) .md-select-value {    border-bottom:  none;}
+md-input-container .md-input{ line-height:38px;}
+.new1-prequote-desktop-input-box md-input-container .md-input{  padding-top: 0; font-size: 13px; }
+.prequote-desktop-select-income md-select .md-select-value.md-select-placeholder{  color: rgba(0, 0, 0, 0.45);}
+.pre-quote-mail { padding-top: 0px!important;}
+.name-prelead1{ line-height:33px!important; padding-top:0px!important;}
+md-select#select_33{padding-bottom:0;}
+.name-info {    line-height: 31px!important;}
+span.diseases-info {   height: 48px;  line-height: 18px;   padding-top: 16px;}
+.space-left-phone md-input-container {    margin-left: 2px!important;}
+.prequote-term-new{    padding-top: 3px!important;    color: #888888;  }
+.prequote-term-new a{    font-weight:normal;}
+.select-prefix-new {    color: #888!important;    font-weight: normal!important;}
+.center-11 {  margin-bottom: 25px;    margin-top: 25px;}
+.name-prelaed-box{ width:150px!important;}
+.prelead-more-members { border-bottom: 1px solid #64cbf4;  color: #949494;  font-size: 13px;  margin: 0 0 10px;  padding: 5px 0 3px;}
+.prequote-members-selecton-new md-checkbox .md-label{ font-size:13px; margin-top: 0;}
+
+.prequote-pd-wraper-new{ height:37px;}
+md-select-menu-container{  margin-left: 4px!important;  min-width: 238px!important;}
+.space-left-phone md-input-container{ margin-top:-12px;}
+.pre-quote-mail{ margin:-10px 0 0 0 !important;}
+.newP-prequote-desktop-select-ph md-select .md-select-value{ color:#b2b2b2!important; font-size:13px;}
+.newP-prequote-desktop-select-ph md-input-container input{ font-size:13px;}
+.prequot-ped-form-new{ min-height:auto;}
+.prequote-members-selecton-new .md-select-value{ color:inherit!important;  font-size: 13px;}
+.space-in-inc md-input-container{ padding-bottom:17px;}
+.align-rig{ text-align:right;}
+.mr-box-new {    margin-left: -2px!important;}
+.pos-inherit{ position:inherit!important;}
+.new-bdr-gry{ border-bottom: 1px solid #e0e0e0; margin-right:0px;  height: 32px;}
+.prequote-members-selecton-new{ margin-left:5px;}
+.prequote-desktop-select-ph md-select .md-select-value{ color: rgba(0, 0, 0, 0.45)!important;}
+.prequote-members-selecton-new md-select-value span{ overflow:inherit!important}
+.prequot-desktop-left h2 {
+    color: #fff;
+    text-align: center;
+    font-size: 22px;
+    position: absolute;
+    text-shadow: 0 0 #ccc;
+    font-weight: 400;
+    left: 0;
+    padding: 0px 20px;
+    right: 0;
+    margin: -56px auto;
+}
+.prequot-desktop-left p {
+    font-size: 14px;
+    color: #fff;
+    font-weight: 400;
+    text-align: center;
+    line-height: 21px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.prequot-desktop-left-new, .prequot-desktop-left1-new {
+    padding: 14px 33px 0 20px;
+    width: 337px;
+}
+.prequote-circle-divider {
+    width: 54px;
+    height: 54px;
+    position: absolute;
+    margin: 51% 0 0 85.9%;
+    z-index: 1;
+    background: #76e1d1;
+    text-align: center;
+    border-radius: 50px;
+    padding-top: 1px;
+    border: 4px solid #fff;
+}
+ul.prequot-desktop-left-list {
+    margin-left: 20px;
+    width: 100%;
+    float: left;
+    list-style: none;
+    margin-left: -20px;
+}
+ul.prequot-desktop-left-list li {
+    width: 96%;
+    padding: 0 0 14px;
+    float: left;
+    color: #fff;
+    font-size: 13px;
+    list-style-type: disc;
+    font-weight: 300;
+}
+
+.prequote-desktop-input-box md-autocomplete button {
+    right: 9px!important;
+}
+
+.prequote-members-selecton-new md-select-value span.md-select-icon{}
+
+.new-sp-law {    margin-right: -9px!important;}
+
+.sp-but {    margin-left: -4px!important;  margin-top: 0px;     height: 41px;}
+.sp-but .md-select-value {    margin: -1px 0 0 0!important;}
+.sp-but .md-select-icon {    margin-top: -3px;}
+.income-dropdown .md-select-icon{  margin-right: 21px!important;}
+
+ .prequote-members-selecton-new  md-select:focus {
+    outline: none; border-bottom:1px solid #e0e0e0!important; margin-top:-2px!important;  transform: translate3d(0, 2px, 0);   }
+
+.sp-but md-select:focus {
+    outline: none;
+    border-bottom: 0px solid #e0e0e0!important;
+    margin-top: 9px!important;
+    transform: initial;
+}
+
+.text-sm-web .md-select-value span {
+    text-overflow: ellipsis;
+    overflow: hidden!important;
+    margin-left: 16px;
+    width: 16px!important;
+}
+
+md-option .md-text {
+    font-size: 13px;
+}
+
+/*.error-title md-select-value span {
+    color: red!important;
+}*/
+
+.error-title {
+    position: absolute;
+    font-size: 10px;
+    color: red;
+    left: 156px;
+}
+
+.sp-email-d {
+    margin-left: -2px!important;
+    width: 220px!important;
+}
+.select-prefix-new{ font-size:13px!important;}
+.prequote-desktop-pq4{ background:#fff;}
+.pq4-bg {
+    background: #f6f5fe;
+    padding-top: 10px;
+	    margin-bottom: 10px;
+}
+.pq-text{     color: #828283; font-size:13px;    margin: 57px 2px 0 15px!important;}
+.pq-text ul {
+    margin: 4px 0 10px 16px;
+    padding: 0px;
+}
+.pq-text ul li{    margin:0px; padding:0px; line-height:20px;}
+
+.selection-sp{padding: 5px 20px;}
+.selection-sp2{padding: 41px 10px 20px 20px;}
+
+.selection-head{ font-weight: bold; color: #4dbae5;}
+.gst-msg-top {
+    font-size: 15px;
+    color: #fff;
+    background: #f67851;
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+    width: 56%;
+    margin: -42px auto 0;
+    border: 1px solid #e66d49;
+}
+
+.gst-msg-top span{text-shadow: 0 1px 1px #9a9a9a; font-size: 16px; font-weight: bold;}
+
+.radio-multi{   display:inline-block;    width:16px;    height: 16px;    background: url(../images/radio-modify-but.png) no-repeat -1px 0px;
+    cursor:pointer;    margin: 2px 0; }
+.radio-multi.selected{      background: url(../images/radio-modify-but.png) no-repeat -33px 0px; } 
+.members-heading-selection{ text-align:left!important;}
+.selection-regular {    padding: 24px 20px 20px 20px;}
+
+.toll-box-new {    background: url(../images/toll-new-icon.png) no-repeat 0 0px;    padding: 0 0px 17px 37px;    float: right;    cursor: pointer;    position: relative;}
+.toll-text-new {    color: #fff;    font-size: 12px;    display: inline-block;    padding:6px 6px 0px;    float: right;    background: #0f699d;
+    width: 72px;    text-align: center;    border-radius: 0 3px 3px 0; height: 19px;}
+.toll-box-open {    position: absolute;    width: 153px;    background: #0f699d;    color: #fff;    border-radius: 3px;    padding: 0px 10px 0 10px;    float: right;    clear: both;    font-size: 12px;    z-index: 9;    display:none;    margin:4px 0 0 0;    right: -1px;
+    top: 22px;}
+.inner-toll-box {    padding: 6px 0;    margin: 0 ;    line-height: 17px;    border-bottom: 1px solid #4289b2;}
+.inner-toll-box span {    text-transform: none;    font-size: 11px;    display: block;}
+.toll-box-new:hover .toll-box-open {  display:block;}
+.toll-box-open a{ color:#fff; text-decoration:none; font-weight:600;  font-size:14px;}
+.bdr-none-toll{ border-bottom:none;}
+
+
+@-moz-document url-prefix() { 
+  .space-left-phone md-input-container{ margin-top:4px;}
+  .pre-quote-mail{ margin:0px 0 0 0 !important;}
+.prequote-members-selecton-new md-select .md-select-value.md-select-placeholder{  font-size:13px; color: rgba(0, 0, 0, 0.45)!important;}
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	md-switch-thumb, .prequote-ped-selecton-new md-radio-button {      width: 33%!important;}
+	.space-left-phone md-input-container{ margin-top:5px;}
+	 .pre-quote-mail{ margin:0px 0 0 0 !important;}
+	 .prequote-members-selecton-new md-select .md-select-value.md-select-placeholder{  font-size:13px; color:rgba(0, 0, 0, 0.70)!important;}
+	 .prequote-desktop-select-income md-select .md-select-value.md-select-placeholder {        color: rgba(0, 0, 0, 0.70);}
+	 .prequote-desktop-select-ph md-select .md-select-value {   color:rgba(0, 0, 0, 0.70)!important;}
+	 .prequote-ped-selecton-new md-radio-button .md-label span {    color:rgba(0, 0, 0, 0.70)!important;}
+	 .prequote-members-selecton-new md-checkbox .md-label{ color:rgba(0, 0, 0, 0.75)!important;}
+	 .select-prefix-new {   color:rgba(0, 0, 0, 0.70)!important;   }
+}
+
+
+@media screen\0 {
+	.prequote-box-margin { margin:0 24px; }
+	.sp-but{ width:140px;}
+	.income-dropdown .md-select-icon{  margin-right: 11px!important;}
+	.space-left-phone md-input-container{ margin-top:-5px;}
+	.selection-sp2 {   padding: 32px 10px 20px 20px!important;}
+	.selection-sp23 {    padding-top: 42px!important;}
+}
+
+@media only screen and (min-device-width: 768px)  and (max-device-width: 1024px) {}
+
+@media only screen and (min-device-width: 320px)  and (max-device-width: 640px) {
+html,body{background: #ededf9;}	
+.prequote-desktop-wrapper {    width: 100%;}
+.prequote-header-padding {   background: #005387;}
+.prequote-fa-icon {  height: 46px;  padding-top: 7px;}
+.new1-prequote-desktop-input-box span {   line-height: 50px;}
+.newP-prequote-desktop-select span.slect {  line-height: 50px;}
+.newP-prequote-desktop-select md-select {  margin: -3px 0 0 !important;}
+md-select.select-members-button span{ font-size:11px!important;  margin-left:4px;}
+md-select.select-members-button .md-select-icon{width: 12px!important;}
+.margin-prelead .md-button { margin-top: -2px !important;  min-width: 100% !important;}
+.margin-prelead {    padding: 0px 0px 5px 0px;}
+.new1-prequote-desktop-input-box md-autocomplete {  margin-top:2px;}
+.newP-prequote-desktop-select-ph .ph {   line-height: 57px;}
+.newP-prequote-desktop-select-ph md-select {    margin: 10px 0 0;}
+.prequote-mr-lead md-input-container {  padding-top: 7px!important;  padding-left: 7px;}
+.prequote-ped-selecton-new md-radio-button .md-label span {   margin: 7px;}
+.scroll-members-new {  width: 100%!important;}
+.members-text2 {  min-height: 30px;  word-break: break-word;    padding: 6px 0 2px 5px; border-bottom: none;}
+.illness-box {    margin: 0px 0 0;}
+.prequote-ped-slection-wraper-new {  padding: 11px 15px 0 0;  width: 103%;   margin-left: -4px;}
+.margin-prelead22 {    padding: 10px 10px 5px 11px;}
+.prequote-box-illness {    margin: 0px 2px 0 3px;}
+.diseases-info {    line-height: 14px!important;    height: 39px!important;    padding-top: 14px!important;}
+.pre-quote-mail {    padding-top: 0px!important;}
+.mob-city {    margin: 6px 0 0 0!important;}
+.mob-phone{ margin: -5px 0 0 0;}
+.newP-prequote-desktop-select-ph md-input-container {    padding-top: 0;}
+.new1-prequote-desktop-input-box md-autocomplete  { min-width:145px!important;     margin-left: 1px;     margin-top: 7px;}
+.new1-prequote-desktop-input-box md-autocomplete input  { font-size:12px!important;}
+.prequote-mr {    max-width: 11%!important;    flex: 10%!important;    padding-left: 17px!important;}
+.prequote-mr-lead {    max-width: 47%!important;    padding-left: 11px!important;    flex: 47%!important;}
+.new1-prequote-desktop-input-box md-input-container {    margin: 1px 0 0 2px!important;}
+.prequote-members-selecton-new {    border-bottom: 1px solid #e0e0e0;}
+.prequote-members-selecton-new md-select{ border-bottom:none;}
+.country {    margin-top: -5px!important;}
+.prequote-icons-phone-n {    max-width: 30%!important;}
+.prequote-button-new span{ font-size:11px; }
+.amount-mob-new {    height: 55px;}
+.amount-mob-new span.slect {  line-height: 55px;}
+.amount-mob-new .prequote-fa-icon{ line-height: 43px;}
+.bdr-none{ border-bottom:none;}
+.prequote-members-selecton-new{ margin-left:0px;}
+.new-bdr-gry {   border-bottom: none;  }
+.prequote-members-selecton-new .md-select-value{ text-align:center!important;} 
+.prequote-members-selecton-new .md-select-icon {    margin-top: -5px;}
+.prequote-desktop-select-income md-select .md-select-value.md-select-placeholder {    color: #a9a9a9;}
+.prequote-desktop-select-ph md-select .md-select-value {    color: #a9a9a9!important;}
+.select-prefix-new {    color: #a9a9a9!important;  }
+.income-dropdown .md-select-icon {    margin-right: 9px!important;}
+.prequote-desktop-select-income md-select .md-select-value.md-select-placeholder {        color: rgba(0, 0, 0, 0.70);}
+.prequote-desktop-select-ph md-select .md-select-value {   color:rgba(0, 0, 0, 0.70)!important;}
+.prequote-ped-selecton-new md-radio-button .md-label span {    color:rgba(0, 0, 0, 0.70)!important;}
+.prequote-members-selecton-new md-checkbox .md-label{ color:rgba(0, 0, 0, 0.75)!important;}
+.select-prefix-new {   color:rgba(0, 0, 0, 0.70)!important; font-size:13px;   }
+.prequote-members-selecton-new md-select .md-select-value.md-select-placeholder{  color:rgba(0, 0, 0, 0.70)!important;}
+.sp-but {    margin-top: 1px; height: 29px;}
+ .prequote-members-selecton-new  md-select:focus {
+    outline: none; border-bottom:0px solid #e0e0e0!important; margin-top:-2px!important;  transform: translate3d(0, 2px, 0);   }
+.sp-no-illness{ padding-top:0px!important;}
+
+.pq-text {    font-size: 12px;}
+.error-title {     left: 139px;}
+.gst-msg-top {    font-size: 12px; color: #fff;  border-radius: 3px;  padding: 6px;  text-align: center; width: 89%;   margin: 0px auto 0;}
+.gst-msg-top span{font-size: 12px; font-weight: 600; text-shadow:none; }
+.prequote-box-margin {   padding-top: 12px;}
+.pq-text {    margin: 9px 2px 0 2px!important;}
+.zoom-no{ zoom: 0.9;}
+.name-prelaed-box {    width: 92%!important;}
+.sp-email-d {    margin-left: -21px!important;       width: 100%!important;}
+.email-box {    max-width: 60%!important;    flex: 60%!important;}
+.toll-box-new {    background: none;    padding: 0;   }
+.toll-box-open {    background: #005387;     text-align: left; margin: 20px -2px 0 0; }
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {	.space-left-phone md-input-container{ margin-top:0px;}	
+.prequote-members-selecton-new md-select .md-select-value.md-select-placeholder{   color:rgba(0, 0, 0, 0.70)!important;}
+}
+
+}
+
+@media only screen and (max-width : 326px){.zoom-no{ zoom: 0.8;}  .diseases-info { height: 45px!important;  padding-top: 8px!important;}}
+
+@media only screen and (max-width : 320px){.error-title {     left: 123px!important; } .zoom-no{ zoom: 0.8;} }

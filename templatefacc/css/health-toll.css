@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.toll-box-new {    background: url(../images/toll-new-icon.png) no-repeat 0 0px;    padding: 0 0px 17px 37px;    float: right;    cursor: pointer;    position: relative; margin: 9px 0 0 0;}
+.toll-text-new {    color: #fff;    font-size: 12px;    display: inline-block;    padding:6px 6px 0px;    float: right;    background: #0f699d;
+    width: 72px;    text-align: center;    border-radius: 0 3px 3px 0; height: 19px;}
+.toll-box-open {   position: absolute;   width: 149px;  background: #0f699d;  color: #fff;  border-radius: 3px;  padding: 0px 8px;
+    float: right;    clear: both;    font-size: 12px;    z-index: 9;  display:none; margin: 4px 0 0 0;  right: -1px;    top: 22px; font-weight: normal;
+    text-align: left;}
+.inner-toll-box {    padding: 6px 0;    margin: 0 ;    line-height: 17px;    border-bottom: 1px solid #4289b2;}
+.inner-toll-box span {    text-transform: none;    font-size: 11px;    display: block;}
+.toll-box-new:hover .toll-box-open {  display:block; }
+.toll-box-open a, .toll-box-open-mob a{ color:#fff; text-decoration:none; font-weight:600;  font-size:14px;}
+.bdr-none-toll{ border-bottom:none;}
+
+
+
+
+.toll-box-open-mob {   position: absolute;   width: 149px;  background: #0f699d;  color: #fff;  border-radius: 3px;  padding: 0px 8px;
+    float: right;    clear: both;    font-size: 12px;    z-index: 9; margin: 4px 0 0 0;  right: -1px;    top: 27px; font-weight: normal;    text-align: left;}
+
+
+
+@media only screen and (min-device-width: 320px)  and (max-device-width: 640px) {
+
+.toll-box-new {    background: none;    padding: 0;  margin: 0; }
+.toll-box-open {    background: #005387;     text-align: left; margin: 20px -2px 0 0; }
+.mob-filter-fix-single{ z-index:9!important;}
+}
