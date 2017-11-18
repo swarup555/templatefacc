@@ -16,6 +16,8 @@ rzslider {
         cursor: not-allowed;
     }
 
+
+
         rzslider[disabled] .rz-pointer {
             cursor: not-allowed;
             background-color: #d8e0f3;
